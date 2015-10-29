@@ -1,0 +1,1 @@
+// import/export functions from folders in views folder; export is an object
