@@ -1,0 +1,10 @@
+{this.selectImage.bind(this)} is the same as using a arrow function
+
+{trigger: true}
+
+.find() for array like .filter()
+    .filter() gives array of all things that match
+    .find() gives just the first item that matches
+
+arrow function
+    if there's one parameter not plural OR zero), you don't need the parentheses
